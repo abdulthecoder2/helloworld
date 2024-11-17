@@ -8,7 +8,7 @@
   
   /* Body Styling */
   body {
-    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    background: linear-gradient(135deg, #cb6b11, #2575fc);
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -21,7 +21,7 @@
     max-width: 400px;
     padding: 20px;
     background-color: #fff;
-    border-radius: 10px;
+    border-radius: 50px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
   }
   
